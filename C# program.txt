@@ -20,5 +20,11 @@ omazvaciq
         var line = reader.ReadLine();
         MessageBox.Show(line);
     }
-	oshte omazan kod
+
+	
 }
+
+}
+
+Good Job!
+>>>>>>> 967a14fb589865d418295efa2636b58eef5ce10f
