@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 i drink rakia
 I no drink rakia I drink beer
+=======
+i drink tomato juice with rakia
+
+Why dou you do this to yourself? :P
+
+i drink rakia
+
+>>>>>>> c8f38f0168108fd84053a423d2fbc5cbe4d0bdeb
