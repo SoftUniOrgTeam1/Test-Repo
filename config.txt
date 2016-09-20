@@ -1,3 +1,3 @@
-name=Bogdan		
-age=18
-email=alovbg@abv.bg
+name=Radost	
+age=19
+email=tanya_ispaniq@abv.bg
