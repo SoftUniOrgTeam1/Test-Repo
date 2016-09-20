@@ -1,3 +1,7 @@
 name=Bogdan		
 age=18
 email=alovbg@abv.bg
+
+name=Georgi	
+age=100
+email=hahah@bg.bg
