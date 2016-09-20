@@ -1,0 +1,15 @@
+var word=prompt("Give a word","");
+             
+             
+function pal(){
+    if(word===word.split('').reverse().join(''))
+    {
+        document.write("hello this is a palindrome"+"<br>"+word.split('').reverse().join('') +" is the same as "+word);
+    }
+    else
+    {
+        document.write("Error 504(Not a palindrome)"+"..."+"hello this is not a palindrome"+"<br>"+word.split('').reverse().join('') +" is not the same as "+word);
+    }
+         
+}
+pal();
