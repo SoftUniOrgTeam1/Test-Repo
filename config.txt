@@ -1,0 +1,3 @@
+name=Bogdan		
+age=18
+email=alovbg@abv.bg
