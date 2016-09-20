@@ -11,8 +11,6 @@ private static UnmanagedMemoryStream GetResourceStream(string resName)
 
 private void Button1_Click(object sender, RoutedEventArgs e)
 {
-
-omazvaciq
     string resName = "Test.txt";
     var file = GetResourceStream(resName);
     using (var reader = new StreamReader(file))
@@ -20,11 +18,6 @@ omazvaciq
         var line = reader.ReadLine();
         MessageBox.Show(line);
     }
-
-	
-}
-
 }
 
 Good Job!
->>>>>>> 967a14fb589865d418295efa2636b58eef5ce10f

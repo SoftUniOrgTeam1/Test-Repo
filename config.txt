@@ -15,13 +15,4 @@ age=19
 email=tanya_ispaniq@abv.bg
 
 ..
-
-
-conflictDone...
-
 kak e ?
-
-dobre e 
-
-
->>>>>>> 02b74e021f5bf8115bb0c5afefb98833391db7a2
