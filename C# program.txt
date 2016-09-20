@@ -20,4 +20,5 @@ omazvaciq
         var line = reader.ReadLine();
         MessageBox.Show(line);
     }
+	oshte omazan kod
 }
