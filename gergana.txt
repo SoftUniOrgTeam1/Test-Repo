@@ -1,3 +1,5 @@
 My name is Gergana.
 I am from Plovdiv.
 I live in Sofia.
+
+Editing this file in branch master and creating a conflict with branchGeri.
